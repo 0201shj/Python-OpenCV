@@ -1,4 +1,4 @@
-# Python-OpenCV
+# Python_OpenCV_스터디
 --------------------------
 OpenCV-Python 스터디
 --------------------------
